@@ -27,3 +27,21 @@ Windows sistem saatini güncelleme programı.
 C# ile NTP kullanımı ve sistem saati değiştirme.
 Sunucu saati otomatik olarak güncellenmiyor, nasıl düzeltilir?
 Bilgisayar saatinin doğruluğunu kontrol etme ve güncelleme.
+
+
+
+
+#  Update System Time from NTP Server Using C#
+This project is a C# application that updates the computer's system time by fetching time information from an NTP (Network Time Protocol) server. The application uses Microsoft's time.windows.com NTP server. 
+Create a new console application and add the code to your Program.cs file. You can add the exe output to scheduled tasks.
+
+The computer's time is incorrect.
+The server time is always behind.
+How can I automatically update my computer's time?
+How to fetch time from an NTP server?
+How to update system time using C#?
+Synchronize computer time with NTP.
+Program to update Windows system time.
+Using NTP with C# and updating system time.
+The server time is not updating automatically, how to fix it?
+Check and update the accuracy of the computer's time.
